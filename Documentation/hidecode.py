@@ -1,4 +1,4 @@
-FILE = "analysis.html"
+FILE = "NetworkAnalysis.html"
 
 with open(FILE, 'r') as html_file:
     content = html_file.read()
